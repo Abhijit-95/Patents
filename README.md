@@ -1,6 +1,3 @@
-# Patents
-List of Patents by Abhijit Swain
-
 1.  **Title**: Sicherheitsgurtvorrichtung<br>
     **Patent No**: [DE102020133574A1](https://worldwide.espacenet.com/patent/search/family/080099788/publication/DE102020133574A1?q=pn%3DDE102020133574A1)<br>
     **Status**: Published<br>
