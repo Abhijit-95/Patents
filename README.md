@@ -5,7 +5,7 @@
     
 2.  **Title**: Electric buckle for a safety belt device of a vehicle<br>
     **Patent No**: [EP4272598A1](https://worldwide.espacenet.com/patent/search/family/081580065/publication/EP4272598A1?q=EP4272598A1)<br>
-    **Status**: Granted<br>
+    **Status**: *Granted*<br>
     **Focus**: An electric buckle mechanism.
 
 3.  **Title**: Safety belt device and motor vehicle<br>
@@ -15,12 +15,12 @@
 
 4.  **Title**: Seat belt buckle for a restraining system and restraining system<br>
     **Patent No**: [EP4349206A1](https://worldwide.espacenet.com/patent/search/family/083688688/publication/EP4349206A1?q=EP4349206A1)<br>
-    **Status**: <b>Granted<b><br>
+    **Status**: *Granted*<br>
     **Focus**: Convenience of the belt buckle use with uncompromised safety.
 
 5.  **Title**: Electric buckle for a safety belt device of a vehicle<br>
     **Patent No**: [EP4403065A1](https://worldwide.espacenet.com/patent/search/family/084982447/publication/EP4403065A1?q=EP4403065A1)<br>
-    **Status**: <b>Granted<b><br>
+    **Status**: *Granted*<br>
     **Focus**: Fully electrically operated buckle mechanism.
 
 6.  **Title**: Retractor for a seatbelt device<br>
